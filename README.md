@@ -55,7 +55,7 @@ Estou desenvolvendo um app de **gestão de coleção de Magic: The Gathering** p
 
 ## 📊 GitHub Stats
 
-![Ernanni's GitHub stats](https://github-readme-stats.vercel.app/api?username=ernanni&show_icons=true&theme=dracula&hide_border=true&bg_color=1a1b27&title_color=a855f7&icon_color=a855f7)
+![Ernanni's GitHub stats](https://github-readme-stats.vercel.app/api?username=ernanni&theme=dracula&show_icons=true&hide_border=true&bg_color=1a1b27&title_color=a855f7&icon_color=a855f7)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ernanni&layout=compact&theme=dracula&hide_border=true&bg_color=1a1b27&title_color=a855f7)
 
