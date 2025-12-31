@@ -55,10 +55,9 @@ Estou desenvolvendo um app de **gestão de coleção de Magic: The Gathering** p
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ernanni&theme=dracula&hide_border=true&background=1a1b27&ring=a855f7&fire=a855f7&currStreakLabel=a855f7"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/api/top-langs/?username=ernanni&layout=compact&theme=dracula&hide_border=true&bg_color=1a1b27&title_color=a855f7&langs_count=8"/>
-</div>
+![Ernanni's GitHub stats](https://github-readme-stats.vercel.app/api?username=ernanni&show_icons=true&theme=dracula&hide_border=true&bg_color=1a1b27&title_color=a855f7&icon_color=a855f7)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ernanni&layout=compact&theme=dracula&hide_border=true&bg_color=1a1b27&title_color=a855f7)
 
 ## 🎓 Filosofia de Código
 
